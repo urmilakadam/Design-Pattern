@@ -35,6 +35,9 @@ A collection of **design patterns** implemented using **Java 8 features** such a
   *Enhances object behavior dynamically using Java 8’s `Function` interface.*
 - **Proxy Pattern**  
   *Implements lazy initialization and method access control with a proxy class.*
+- **Execute Around Pattern**
+
+  *Allows executing code both before and after a core function while minimizing code duplication.*
 
 ### 3. **Behavioral Patterns**
 - **Observer Pattern**  
