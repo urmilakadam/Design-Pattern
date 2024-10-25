@@ -9,7 +9,7 @@ public class BuilderMain {
                 .age(23)
                 .build();
 
-        User user1 = new User.UserBuilder("Tom", "Molar")
+        User user1 = new User.UserBuilder("Andy", "Moklar")
                 .address("Fake address 5678")
                 .age(23)
                 .build();
